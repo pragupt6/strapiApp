@@ -5,6 +5,9 @@ node_modules
 node_modules/
 /.pnp
 .pnp.js
+strapi-frontend/.next/
+strapi-frontend/.next
+.vscode
 
 # testing
 /coverage
@@ -12,6 +15,11 @@ node_modules/
 # production
 /strapi-frontend/build
 /strapi-frontend/node_modules
+/strapi-frontend/.next
+/strapi-frontend/.next/
+
+.next/
+
 # misc
 .env
 .DS_Store
